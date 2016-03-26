@@ -1,0 +1,31 @@
+Problem 11. Programming Languages
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages.
+How similar are they to C#? How do they differ from C#?
+
+According to the result of my research on internet the top 5 programming languages of all platforms are Java, C, C++, PHP, JavaScript.
+
+The first of them is Java. This programming language is a multi-platform and its especially useful in networking. The most famous usage of Java is 
+on the web, but it is also used to build cross-platform programs that stand alone. Since it resembles C++ in syntax and structure. Java offers the 
+advantages provided by object-oriented programming, such as C#. Both languages are similar because C# is created on the base of Java. Also they have 
+Development Environments like .NET Framework for C# and Java EE for Java. Both of them are class-based object-oriented programming languages, but one of the 
+bigest difference is that .NET Framework have automatic class Library so the work process its easyer and Microsoft Visual Studio is Integrated Development
+Environment for C#.
+
+The language C is a popular especially in game programming, because it doesn't have the extra packaging of the object-oriented C#. 
+Programmers use C because it makes programs slightly faster and smaller than programs written in C++. C was therefore useful for many applications that had formerly been coded in assembly language,
+such as in system programming. C is one of the oldest languages so it is definitely base
+for other languages such as C#.
+
+C++ is a general-purpose programming language. It is well-suited for large projects because has an object-oriented structure. People can collaborate on one program by breaking it up into parts and 
+having a small group or even one individual work on each part. The object-oriented structure as well and includes classes. Also allows code to be reused a lot, which can cut down development
+time. Because of that its very similar with C#.
+
+PHP is a common language for Web design that is sometimes used as a scripting language in *nix. PHP is designed for rapid website development, 
+and as a result contains features that make it easy to link to databases, generate HTTP headers, and so forth. As a scripting language, it contains a relatively
+simple set of basic components that allow the programmer to quickly get up to speed, though it does have more sophisticated object-oriented features. The difference
+between PHP and C# is that PHP is dynamic and interpreted while C# is static. Also PHP is not with object oriented structure and it does not support threading.
+
+JavaScript is client end scripting language developed by Netscape. JavaScript is becoming popular day by day in Web development zone and since the 
+invention of Node, it is something you should learn ASAP. There is popular Libraries for Java such as jQuery, angularJS and NodeJS and also for C# is .NET Framework 
+Library.

@@ -1,0 +1,39 @@
+Problem 12. Development Environments
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular 
+development environments (IDEs) like Visual Studio.
+
+Microsoft Visual Studio
+Visual Studio is an integrated development environment (IDE) from Microsoft.This products cover languages like C++, C# and VB.NET. It is used to develop computer
+programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as 
+Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. Full integration of most development activities 
+(coding, compiling, testing, debugging, deployment, version control an etc.
+
+Mono
+MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. 
+Its primary focus is development of projects that use Mono and .NET frameworks.
+MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, 
+a graphical user interface (GUI) and Web designer.
+It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, and Visual Basic.NET.
+
+Oracle Netbeans 7
+If you are more of a Java developer, Oracle's got your back with their Netbeans IDE. Of course, despite the fact that excellent Java support is its claim to 
+fame going as far back as the Sun Microsystems days, other languages like C/C++, Ruby, HTML5, PHP and more are supported as well. 
+Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries, among other things.
+It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+Eclipse
+This IDE is quite comprehensive and even similar to Netbeans in a variety of ways, including its use of Java and plugin architecture. However, Eclipse as an 
+IDE comes in a wild variety of flavors, catering to various needs and objectives in software development workflows. 
+The Eclipse Foundation even provides a comparison page to view the differences between the variants of Eclipse. Eclipse may also be used to develop applications 
+in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, 
+Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. Development environments include the Eclipse Java development tools (JDT) 
+for Java and Scala, Eclipse CDT for C/C++ and Ec
+
+Code::Blocks
+Code::Blocks is built on the wxWidgets framework, is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. You can load up a number
+of under-the-hood compiler engines, ranging from GCC and LLVM, to Digital Mars and Open Watcom.
+Built around a plugin framework, Code::Blocks can be extended with plugins. 
+Any kind of functionality can be added by installing/coding a plugin.
+

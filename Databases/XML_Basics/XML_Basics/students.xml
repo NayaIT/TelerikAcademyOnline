@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Jhon Jakson</name>
+    <sex>Male</sex>
+    <birthDate>1979-09-30</birthDate>
+    <phone>+359888888899</phone>
+    <email>j_jakson@gmail.com</email>
+    <course>Databases</course>
+    <specialty>Telerik Academy Ninja</specialty>
+    <facultyNumber>189589625</facultyNumber>
+    <exams>
+      <exam>
+        <name>HQC</name>
+        <tutor>Natalie Klein</tutor>
+        <score>75</score>
+      </exam>
+      <exam>
+        <name>JS UIDOM</name>
+        <tutor>Ben Simson</tutor>
+        <score>33</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>An Mari </name>
+    <sex>Female</sex>
+    <birthDate>1988-12-06</birthDate>
+    <phone>+359888998877</phone>
+    <email>a_mari@gmail.com</email>
+    <course>Databases</course>
+    <specialty>Telerik Academy Ninja</specialty>
+    <facultyNumber>189589628</facultyNumber>
+    <exams>
+      <exam>
+        <name>HQC</name>
+        <tutor>Meg Klein</tutor>
+        <score>99</score>
+      </exam>
+      <exam>
+        <name>JS UIDOM</name>
+        <tutor>Tom Brown</tutor>
+        <score>66</score>
+      </exam>
+    </exams>
+  </student>
+</students>
